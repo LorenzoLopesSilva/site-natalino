@@ -1,0 +1,44 @@
+.back{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.suporte{
+    width: 450px;
+    height: 450px;
+    background-color: green;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10%;
+    color: aliceblue;
+    font: normal 10pt Arial;
+}
+.contato{
+    width: 450px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    margin-top: 400px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.info-contato{
+    font: normal 13pt Arial;
+    color: aliceblue;
+    margin: 10px 0 0 15%;
+}
+.formulario{
+    margin: 15% 0 0 25% ;
+}
+.texto,
+.nome,
+.email{
+    width: 220px;
+    margin-bottom: 10px;
+}
+.texto{
+    height: 100px;
+}
+
